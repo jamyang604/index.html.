@@ -161,7 +161,8 @@
     <p>Here are some memorable moments captured from our mentor-mentee group activities:</p>
     <div class="diagonal-row">
         <div><img src="https://uploads.onecompiler.io/43jct4j6q/445dbktmt/WhatsApp%20Image%202024-10-07%20at%2011.33.05%20AM.jpeg" alt="Group Photo 1"></div>
-        <div><img src="https://uploads.onecompiler.io/43jct4j6q/445dbktmt/WhatsApp%20Image%202024-10-07%20at%2011.33.03%20AM-3.jpeg" alt="Group Photo 2"></div>
+        <div><img src="https://uploads.onecompiler.io/43jct4j6q/445yawtys/Image_20250515_205345_464.jpeg
+" alt="Group Photo 2"></div>
     </div>
 </section>
 
