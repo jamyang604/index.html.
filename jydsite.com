@@ -166,7 +166,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2025 Lobey Sangay Wangchuck Mentor-Mentee Group</p>
+    <p>&copy; 2025 Lobey Sangay Wangchuck Mentor-Mentee Group by Jamyang Yuden Dorj</p>
 </footer>
 
 <script>
