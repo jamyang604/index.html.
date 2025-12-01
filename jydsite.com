@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lobey Sangay Wangchuck Mentor-Mentee Group</title>
+    <title>Lobey Sangay Wangchuk Mentor-Mentee Group</title>
     <style>
         body {
             font-family: Arial, sans-serif;
