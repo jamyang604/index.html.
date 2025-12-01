@@ -110,13 +110,13 @@
 <!-- About Section -->
 <section id="about" class="active">
     <h2>About the Group</h2>
-    <p>Lobey Sangay Wangchuck Mentor-Mentee Group is an amazing and supportive group. It is one of the best mentor-mentee groups where everyone helps each other grow, learn, and improve. The mentor provides valuable guidance, while the mentees actively support one another, making it truly helpful and inspiring.</p>
+    <p>Lobey Sangay Wangchuk Mentor-Mentee Group is an amazing and supportive group. It is one of the best mentor-mentee groups where everyone helps each other grow, learn, and improve. The mentor provides valuable guidance, while the mentees actively support one another, making it truly helpful and inspiring.</p>
 </section>
 
 <!-- Mentor Section -->
 <section id="mentor">
     <h2>Mentor</h2>
-    <p>Lobey Sangay Wangchuck is around 47 years old and hails from Tashi Yangtshi, Bhutan. He is a senior at the Royal Academy and widely recognized as one of the best mentors. With his guidance, mentees are encouraged to learn, grow, and achieve their best potential. He is not only an excellent mentor but also a kind and supportive figure for the entire group.</p>
+    <p>Lobey Sangay Wangchuk is around 47 years old and hails from Tashi Yangtshi, Bhutan. He is a senior at the Royal Academy and widely recognized as one of the best mentors. With his guidance, mentees are encouraged to learn, grow, and achieve their best potential. He is not only an excellent mentor but also a kind and supportive figure for the entire group.</p>
     <p>He is married to Dorji Dema and together they have one daughter and one son. Beyond his professional accomplishments, he is known for his humility, dedication, and ability to inspire those around him.</p>
     <img src="https://uploads.onecompiler.io/43jct4j6q/445acqxdj/Screenshot%202025-11-20%20at%2011.11.11%E2%80%AFPM.png" alt="Mentor Photo">
 </section>
@@ -166,7 +166,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2025 Lobey Sangay Wangchuck Mentor-Mentee Group by Jamyang Yuden Dorj</p>
+    <p>&copy; 2025 Lobey Sangay Wangchuk Mentor-Mentee Group by Jamyang Yuden Dorj</p>
 </footer>
 
 <script>
